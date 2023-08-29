@@ -33,7 +33,7 @@ Welcome to my profile! I'm a Software Engineer and Web Fullstack developer, Look
 | Job Position           | Company         | Field                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
 | **PHP Web Developer** | **Segic Usach Ltda** | **PHP , Laravel  MySQL , PLSQL , JS**  | **2020-09 — now** |
-| Product Owner and System Analist          | ASIMET A.G     | Softwre Engineer ,developer | 2018-10 — 2020-06 |
+| Product Owner and System Analyst          | ASIMET A.G     | Softwre Engineer ,developer | 2018-10 — 2020-06 |
 | Web developer          | Orecal Ltda     | PHP , JS ,MySQL         | 2018-02 — 2018-06 |
 
 
