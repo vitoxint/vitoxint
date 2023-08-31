@@ -31,7 +31,7 @@ Welcome to my profile! I'm a Software Engineer and Web Fullstack developer, Look
 
 ### Work experience 👔
 | Job Position                | Field                         | Work Period       |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
+| ---------------------- | ----------------------------- | ----------------- |
 | **PHP Web Developer**  | **PHP , Laravel  MySQL , PLSQL , JS**  | **2020-09 — now** |
 | Product Owner and System Analyst               | Softwre Engineer ,developer | 2018-10 — 2020-06 |
 | Web developer           | PHP , JS ,MySQL         | 2018-02 — 2018-06 |
